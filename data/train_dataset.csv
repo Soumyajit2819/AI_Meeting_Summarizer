@@ -1,0 +1,669 @@
+Text,label
+"please share the updated document by evening",Tasks
+"send the final report to the finance team",Tasks
+"schedule a follow up meeting for next week",Tasks
+"prepare slides for the board review",Tasks
+"assign two developers to the migration task",Tasks
+"update the jira ticket with latest status",Tasks
+"coordinate with vendors for delivery",Tasks
+"review the proposal and send feedback",Tasks
+"collect requirements from all departments",Tasks
+"ensure backup is completed before migration",Tasks
+"inform hr about the new joining dates",Tasks
+"draft an email summarizing today's discussion",Tasks
+"finalize the presentation before lunch",Tasks
+"track progress and report delays",Tasks
+"set reminders for action items",Tasks
+"book conference room for friday",Tasks
+"compile cost estimates and circulate",Tasks
+"share meeting minutes with stakeholders",Tasks
+"arrange logistics for office relocation",Tasks
+"confirm attendance for tomorrow's call",Tasks
+"follow up with legal team on contract",Tasks
+"update dashboard with new metrics",Tasks
+"submit expense report by monday",Tasks
+"review compliance checklist",Tasks
+"test system before deployment",Tasks
+"coordinate training sessions",Tasks
+"close completed tasks in tracker",Tasks
+"assign point of contact for vendors",Tasks
+"prepare handover notes",Tasks
+"collect approvals from management",Tasks
+"schedule system downtime notice",Tasks
+"notify teams about changes",Tasks
+"upload files to shared drive",Tasks
+"review budget spreadsheet",Tasks
+"prepare agenda for next meeting",Tasks
+"confirm timelines with suppliers",Tasks
+"escalate issues if required",Tasks
+"update roadmap document",Tasks
+"circulate survey results",Tasks
+"arrange demo session",Tasks
+"verify the integrity of the backup data",Tasks
+"install the latest security patches",Tasks
+"debug the login error on the staging server",Tasks
+"write the user documentation for the new feature",Tasks
+"organize the shared folder structure",Tasks
+"contact the internet service provider regarding outages",Tasks
+"order new equipment for new hires",Tasks
+"renew the software license keys",Tasks
+"calculate the quarterly tax deductions",Tasks
+"print the handouts for the workshop",Tasks
+"sign the non-disclosure agreement",Tasks
+"register for the upcoming industry conference",Tasks
+"monitor the server logs for anomalies",Tasks
+"configure the vpn access for remote staff",Tasks
+"reset the password for the admin account",Tasks
+"clean up the legacy database entries",Tasks
+"optimize the images for the website",Tasks
+"translate the marketing copy into spanish",Tasks
+"create a poll for the team lunch venue",Tasks
+"investigate the cause of the system crash",Tasks
+"reconcile the bank statements for march",Tasks
+"draft the job description for the senior role",Tasks
+"screen resumes for the developer position",Tasks
+"conduct the exit interview for the intern",Tasks
+"update the emergency contact list",Tasks
+"checking inventory levels in the warehouse",Tasks
+"dispatch the shipment to the east coast",Tasks
+"negotiate the rates with the courier service",Tasks
+"calibrate the testing equipment",Tasks
+"inspect the assembly line for safety hazards",Tasks
+"refactor the code for better performance",Tasks
+"merge the development branch into master",Tasks
+"deploy the hotfix to production immediately",Tasks
+"rollback the latest update due to bugs",Tasks
+"archive old project files",Tasks
+"sync the calendar with the project timeline",Tasks
+"invite the client to the slack channel",Tasks
+"record the training session for future use",Tasks
+"edit the video footage for the promo",Tasks
+"publish the blog post on the company site",Tasks
+"audit the access logs for unauthorized entry",Tasks
+"change the wifi password for the guest network",Tasks
+"run the automated test suite",Tasks
+"validate the user input forms",Tasks
+"mock up the ui design for the mobile app",Tasks
+"conduct user acceptance testing",Tasks
+"gather feedback from the beta testers",Tasks
+"prioritize the backlog items",Tasks
+"groom the user stories for the next sprint",Tasks
+"estimate the story points for the task",Tasks
+"facilitate the retrospective meeting",Tasks
+"remove the impediments for the scrum team",Tasks
+"update the organizational chart",Tasks
+"onboard the new consultant",Tasks
+"process the payroll for this month",Tasks
+"approve the leave requests in the system",Tasks
+"distribute the holiday schedule",Tasks
+"reserve a table for the client dinner",Tasks
+"book flight tickets for the sales team",Tasks
+"arrange hotel accommodation for the guests",Tasks
+"process the invoice for the cleaning service",Tasks
+"categorize the support tickets",Tasks
+"respond to the customer query on twitter",Tasks
+"update the faq section on the website",Tasks
+"troubleshoot the printer connectivity issue",Tasks
+"replace the toner in the photocopier",Tasks
+"sanitize the workstations",Tasks
+"restock the pantry supplies",Tasks
+"water the office plants",Tasks
+"lock the main doors after hours",Tasks
+"arm the security system before leaving",Tasks
+"issue visitor badges at reception",Tasks
+"escort the auditors to the conference room",Tasks
+"setup the projector for the presentation",Tasks
+"connect the video conferencing hardware",Tasks
+"mute all participants during the webinar",Tasks
+"record the attendance for the safety drill",Tasks
+"submit the tax returns before the deadline",Tasks
+"file the physical contracts in the cabinet",Tasks
+"shred the confidential documents",Tasks
+"scan the receipts for reimbursement",Tasks
+"update the asset register",Tasks
+"tag the new laptops with asset ids",Tasks
+"wipe the data from the old hard drives",Tasks
+"format the usb drives for distribution",Tasks
+"install the antivirus software on all nodes",Tasks
+"configure the firewall rules",Tasks
+"whitelist the ip address for the partner",Tasks
+"renew the ssl certificate",Tasks
+"check the domain expiration date",Tasks
+"update the dns records",Tasks
+"flush the cache on the cdn",Tasks
+"restart the web service",Tasks
+"check the disk space usage",Tasks
+"compress the log files",Tasks
+"encrypt the sensitive data fields",Tasks
+"generate the api keys for the client",Tasks
+"revoke access for the terminated employee",Tasks
+"run the vulnerability scanner",Tasks
+"patch the operating system",Tasks
+"upgrade the database version",Tasks
+"migrate the emails to the new server",Tasks
+"configure the email signature for the team",Tasks
+"set up the auto-responder for the holidays",Tasks
+"forward the urgent emails to the manager",Tasks
+"unsubscribe from the spam newsletters",Tasks
+"organize the inbox into folders",Tasks
+"export the contact list to csv",Tasks
+"import the leads into the crm",Tasks
+"qualify the sales leads",Tasks
+"schedule a demo with the prospect",Tasks
+"send the contract for digital signature",Tasks
+"follow up on the unpaid invoices",Tasks
+"generate the monthly sales report",Tasks
+"analyze the website traffic data",Tasks
+"adjust the ad spend budget",Tasks
+"optimize the keywords for seo",Tasks
+"we are planning to extend flexible working hours",Plans
+"the company plans to relocate the office",Plans
+"there is a proposal to reorganize departments",Plans
+"management plans to expand operations next year",Plans
+"we are planning a phased rollout of the system",Plans
+"the team is working on upgrade plans",Plans
+"there are plans to hire additional engineers",Plans
+"we plan to introduce a hybrid work policy",Plans
+"future plans include cloud migration",Plans
+"the leadership plans to reduce costs",Plans
+"there is a plan to revise the compensation structure",Plans
+"we are planning a new training program",Plans
+"plans are underway for office renovation",Plans
+"the roadmap outlines future enhancements",Plans
+"there is a proposal for flexible scheduling",Plans
+"the company plans to enter new markets",Plans
+"we are planning to automate reporting",Plans
+"there is a plan to merge two teams",Plans
+"long term plans involve digital transformation",Plans
+"the team plans to adopt new tools",Plans
+"we plan to upgrade network infrastructure",Plans
+"there are plans for employee engagement initiatives",Plans
+"management plans to streamline workflows",Plans
+"we are planning security enhancements",Plans
+"future planning sessions are scheduled",Plans
+"plans include vendor consolidation",Plans
+"there is a proposal to revise policies",Plans
+"we plan to improve internal communication",Plans
+"the team is planning a pilot project",Plans
+"future plans depend on budget approval",Plans
+"there is a plan to restructure costs",Plans
+"we plan to move to a new crm",Plans
+"planning is ongoing for next quarter",Plans
+"there is a proposal to outsource support",Plans
+"we plan to increase automation",Plans
+"future plans include system integration",Plans
+"the roadmap reflects upcoming initiatives",Plans
+"we plan to standardize processes",Plans
+"planning discussions will continue next month",Plans
+"we plan to launch the product in q3",Plans
+"the strategy involves penetrating the asian market",Plans
+"we are planning to deprecate the legacy api",Plans
+"there is a plan to refresh the brand identity",Plans
+"management plans to host an annual retreat",Plans
+"we are looking into planning a hackathon",Plans
+"the intention is to plan for scalability",Plans
+"we plan to conduct a market research study",Plans
+"there are plans to rewrite the codebase",Plans
+"the company plans to acquire a competitor",Plans
+"we are planning to open a satellite office",Plans
+"future plans involve ai integration",Plans
+"we plan to reduce our carbon footprint",Plans
+"there is a proposal to change the benefits package",Plans
+"we are planning to implement single sign on",Plans
+"the team plans to switch to agile methodology",Plans
+"we plan to discontinue the low performing skus",Plans
+"planning for the holiday rush has begun",Plans
+"we are planning a series of webinars",Plans
+"there is a plan to upgrade the hardware fleet",Plans
+"management plans to diversify the portfolio",Plans
+"we plan to start a mentorship program",Plans
+"future plans include a mobile first approach",Plans
+"we are planning to revise the pricing model",Plans
+"the roadmap plans for three major releases",Plans
+"we plan to collaborate with influencers",Plans
+"there are plans to improve accessibility",Plans
+"we are planning to audit our supply chain",Plans
+"the company plans to go public next year",Plans
+"we plan to refinance the business loan",Plans
+"there is a proposal to change the dress code",Plans
+"we are planning to install solar panels",Plans
+"management plans to flatten the hierarchy",Plans
+"we plan to use machine learning for analytics",Plans
+"future plans include blockchain adoption",Plans
+"we are planning to renegotiate the lease",Plans
+"the team plans to use docker containers",Plans
+"we plan to simplify the user interface",Plans
+"there are plans to expand the customer support team",Plans
+"we are planning to localize the app for europe",Plans
+"the strategy plans for organic growth",Plans
+"we plan to increase our social media presence",Plans
+"there is a plan to digitize all paper records",Plans
+"management plans to offer stock options",Plans
+"we are planning to host a charity event",Plans
+"future plans involve virtual reality training",Plans
+"we plan to secure a new round of funding",Plans
+"there is a proposal to introduce a 4 day work week",Plans
+"we are planning to replace the erp system",Plans
+"the team plans to document all processes",Plans
+"we plan to conduct quarterly performance reviews",Plans
+"there are plans to update the employee handbook",Plans
+"we are planning to launch a referral program",Plans
+"the company plans to reduce plastic usage",Plans
+"we plan to partner with local universities",Plans
+"future plans include establishing a research lab",Plans
+"we are planning to sublease the unused space",Plans
+"the roadmap plans for better data privacy",Plans
+"we plan to introduce two factor authentication",Plans
+"there is a plan to hire a chief revenue officer",Plans
+"management plans to focus on retention",Plans
+"we are planning to redesign the lobby",Plans
+"the strategy plans for aggressive marketing",Plans
+"we plan to bundle our services",Plans
+"there are plans to spin off a subsidiary",Plans
+"we are planning to liquidate old assets",Plans
+"future plans include entering the healthcare sector",Plans
+"we plan to offer paid internships",Plans
+"there is a proposal to update the logo",Plans
+"we are planning to fix technical debt",Plans
+"the team plans to hold daily standups",Plans
+"we plan to achieve iso certification",Plans
+"there are plans to revamp the onboarding process",Plans
+"we are planning to switch email providers",Plans
+"management plans to cut travel expenses",Plans
+"we plan to focus on customer loyalty",Plans
+"future plans include a dedicated mobile team",Plans
+"we are planning to upgrade the cafeteria",Plans
+"the roadmap plans for gdpr compliance",Plans
+"we plan to invest in cybersecurity",Plans
+"there is a plan to perform load testing",Plans
+"we are planning to optimize the supply chain",Plans
+"the company plans to sponsor a sports team",Plans
+"we plan to develop a proprietary algorithm",Plans
+"future plans include upgrading the reception area",Plans
+"we are planning to offer remote work permanently",Plans
+"the team plans to visualize data better",Plans
+"we plan to clarify the mission statement",Plans
+"there are plans to hold a town hall meeting",Plans
+"our goal is to complete the project on time",Goals
+"the objective is to reduce operational costs",Goals
+"we aim to improve efficiency across teams",Goals
+"the goal is to ensure smooth transition",Goals
+"our target is zero downtime",Goals
+"we want to improve employee satisfaction",Goals
+"the main objective is better collaboration",Goals
+"we aim to finalize decisions this month",Goals
+"the goal is to meet compliance standards",Goals
+"our objective is faster delivery",Goals
+"we aim to minimize disruption",Goals
+"the goal is to improve system stability",Goals
+"we want to achieve cost optimization",Goals
+"our target is improved performance metrics",Goals
+"the objective is seamless migration",Goals
+"we aim to enhance security posture",Goals
+"the goal is to meet quarterly targets",Goals
+"we want to ensure transparency",Goals
+"the objective is better resource utilization",Goals
+"our goal is stakeholder alignment",Goals
+"we aim to close gaps in planning",Goals
+"the goal is to improve reporting accuracy",Goals
+"we want to strengthen governance",Goals
+"the objective is faster response times",Goals
+"we aim to reduce manual work",Goals
+"the goal is successful rollout",Goals
+"our target is improved customer experience",Goals
+"we want to ensure business continuity",Goals
+"the objective is scalability",Goals
+"we aim to improve audit readiness",Goals
+"the goal is better risk management",Goals
+"our objective is process optimization",Goals
+"we want to meet deadlines consistently",Goals
+"the goal is long term sustainability",Goals
+"we aim to align teams effectively",Goals
+"the objective is improved visibility",Goals
+"we want measurable outcomes",Goals
+"the goal is operational excellence",Goals
+"we aim to improve quality standards",Goals
+"our goal is to double revenue by next year",Goals
+"the objective is to reduce churn rate",Goals
+"we aim to increase market share",Goals
+"the goal is to acquire one thousand new users",Goals
+"our target is a five star rating",Goals
+"we want to boost brand awareness",Goals
+"the main objective is customer retention",Goals
+"we aim to streamline the checkout process",Goals
+"the goal is to eliminate waste",Goals
+"our objective is to become carbon neutral",Goals
+"we aim to foster a culture of innovation",Goals
+"the goal is to lower the bounce rate",Goals
+"we want to increase newsletter subscribers",Goals
+"our target is to close deals faster",Goals
+"the objective is to maximize roi",Goals
+"we aim to shorten the sales cycle",Goals
+"the goal is to improve code coverage",Goals
+"we want to reduce technical debt",Goals
+"the objective is higher employee engagement",Goals
+"our goal is to win the industry award",Goals
+"we aim to expand into three new regions",Goals
+"the goal is to reduce server response time",Goals
+"we want to achieve 99% uptime",Goals
+"the objective is data integrity",Goals
+"we aim to reduce paper usage",Goals
+"the goal is to automate repetitive tasks",Goals
+"our target is to train all staff on safety",Goals
+"we want to improve cross functional logic",Goals
+"the objective is to secure the network",Goals
+"we aim to deliver value to shareholders",Goals
+"the goal is to optimize the conversion funnel",Goals
+"we want to increase organic traffic",Goals
+"the objective is to lower acquisition costs",Goals
+"our goal is to standardize the api",Goals
+"we aim to improve the onboarding experience",Goals
+"the goal is to reduce support ticket volume",Goals
+"we want to enhance the mobile experience",Goals
+"our target is to publish one article per week",Goals
+"the objective is to strengthen partnerships",Goals
+"we aim to diversify revenue streams",Goals
+"the goal is to maintain a healthy cash flow",Goals
+"we want to reduce overtime hours",Goals
+"the objective is to upgrade legacy systems",Goals
+"our goal is to comply with new regulations",Goals
+"we aim to improve decision making speed",Goals
+"the goal is to build a resilient infrastructure",Goals
+"we want to foster diversity and inclusion",Goals
+"our target is to reduce bugs in production",Goals
+"the objective is to simplify the pricing model",Goals
+"we aim to increase social media engagement",Goals
+"the goal is to reduce shipping times",Goals
+"we want to improve vendor relationships",Goals
+"the objective is to protect intellectual property",Goals
+"our goal is to achieve net zero emissions",Goals
+"we aim to improve forecast accuracy",Goals
+"the goal is to reduce inventory holding costs",Goals
+"we want to increase average order value",Goals
+"our target is to complete the audit by june",Goals
+"the objective is to enhance disaster recovery",Goals
+"we aim to improve internal knowledge sharing",Goals
+"the goal is to reduce meeting times",Goals
+"we want to achieve seamless integration",Goals
+"the objective is to empower the workforce",Goals
+"our goal is to be the market leader",Goals
+"we aim to improve feedback loops",Goals
+"the goal is to reduce latency",Goals
+"we want to ensure data privacy",Goals
+"our target is to hire ten new developers",Goals
+"the objective is to clear the backlog",Goals
+"we aim to improve accessibility for all users",Goals
+"the goal is to reduce energy consumption",Goals
+"we want to increase recurring revenue",Goals
+"the objective is to minimize legal risks",Goals
+"our goal is to improve team morale",Goals
+"we aim to deliver features faster",Goals
+"the goal is to validate the prototype",Goals
+"we want to ensure brand consistency",Goals
+"the objective is to reduce logistics errors",Goals
+"our target is to reach one million views",Goals
+"we aim to optimize the database queries",Goals
+"the relocation cost is higher than expected",Important
+"it department has the highest expenses",Important
+"budget approval is still pending",Important
+"there are risks involved in migration",Important
+"data security is a major concern",Important
+"timeline may be impacted by delays",Important
+"vendor dependency is a key issue",Important
+"training costs have increased",Important
+"infrastructure upgrades are costly",Important
+"resource availability is limited",Important
+"there are compliance requirements",Important
+"system downtime is unavoidable",Important
+"approval from finance is required",Important
+"legal review is necessary",Important
+"the estimates differ from projections",Important
+"there is a risk of cost overrun",Important
+"dependencies need careful handling",Important
+"capacity constraints exist",Important
+"data privacy concerns remain",Important
+"vendor contracts need review",Important
+"network stability is critical",Important
+"support availability is limited",Important
+"testing reveals performance issues",Important
+"integration challenges are present",Important
+"backup strategy is crucial",Important
+"rollback plan is required",Important
+"monitoring gaps exist",Important
+"audit findings need attention",Important
+"escalation paths must be defined",Important
+"stakeholder approval is pending",Important
+"risk mitigation is necessary",Important
+"cost allocation is disputed",Important
+"system compatibility issues exist",Important
+"security audits are mandatory",Important
+"documentation gaps remain",Important
+"change management is critical",Important
+"timeline dependencies are tight",Important
+"resource conflicts exist",Important
+"vendor delays are possible",Important
+"the deadline is non negotiable",Important
+"missing the launch date is not an option",Important
+"the server vulnerability is critical",Important
+"client satisfaction is at risk",Important
+"immediate action is required",Important
+"funding for the project has been cut",Important
+"the legal team has flagged this clause",Important
+"compliance with gdpr is mandatory",Important
+"there is a high probability of failure",Important
+"key personnel are unavailable",Important
+"the equipment is malfunctioning",Important
+"unauthorized access was detected",Important
+"the contract expires tomorrow",Important
+"payment terms must be adhered to",Important
+"quality standards cannot be compromised",Important
+"the bug affects all premium users",Important
+"disaster recovery plan is missing",Important
+"the internet connection is unstable",Important
+"regulatory fines are significant",Important
+"the api rate limit has been reached",Important
+"confidentiality is paramount",Important
+"the hard drive failure resulted in data loss",Important
+"the license agreement is invalid",Important
+"overhead costs are unsustainable",Important
+"competitors have launched a similar feature",Important
+"brand reputation is at stake",Important
+"the inventory is critically low",Important
+"safety protocols must be followed",Important
+"the supply chain is disrupted",Important
+"interest rates have increased",Important
+"tax implications are severe",Important
+"the merger is under investigation",Important
+"employee turnover is too high",Important
+"customer complaints are escalating",Important
+"the security patch failed to install",Important
+"password complexity is required",Important
+"phishing attacks are increasing",Important
+"the office will be closed for emergency maintenance",Important
+"power outage is expected",Important
+"water supply is contaminated",Important
+"the roadmap is blocked by dependencies",Important
+"technical debt is slowing us down",Important
+"the legacy system is no longer supported",Important
+"warranty does not cover water damage",Important
+"insurance premiums have doubled",Important
+"the landlord is terminating the lease",Important
+"patent infringement lawsuit is filed",Important
+"stock price has dropped significantly",Important
+"investors are concerned about growth",Important
+"cash flow is negative this quarter",Important
+"the audit revealed fraud",Important
+"sexual harassment policy is zero tolerance",Important
+"discrimination claims are serious",Important
+"health and safety violation detected",Important
+"fire wall breach confirmed",Important
+"ransomware attack is in progress",Important
+"customer data was leaked",Important
+"the ceo has called an emergency meeting",Important
+"layoffs are imminent",Important
+"strike action is threatened",Important
+"the prototype failed stress testing",Important
+"database corruption is irreversible",Important
+"the algorithm is biased",Important
+"mobile app crashes on startup",Important
+"payment gateway is down",Important
+"third party api is deprecated",Important
+"ssl certificate has expired",Important
+"domain name is suspended",Important
+"email server is blacklisted",Important
+"vpn connection is refused",Important
+"admin access is lost",Important
+"root password is compromised",Important
+"physical security was breached",Important
+"cctv cameras are offline",Important
+"biometric scanner is broken",Important
+"fire alarm is malfunctioning",Important
+"emergency exits are blocked",Important
+"the backup generator failed",Important
+"air conditioning is broken in the server room",Important
+"temperature is critical",Important
+"flooding in the basement",Important
+"hazardous material spill",Important
+"elevator is stuck",Important
+"markis white is the managing director",Other
+"this meeting happens every month",Other
+"john is absent today",Other
+"everyone has a copy of the agenda",Other
+"the meeting started at ten am",Other
+"participants joined the call late",Other
+"there was a short break",Other
+"the session resumed at eleven thirty",Other
+"the presentation will be after lunch",Other
+"the meeting concluded at noon",Other
+"attendees agreed to continue later",Other
+"the chair opened the meeting",Other
+"minutes will be recorded",Other
+"the discussion was informal",Other
+"the call quality was poor",Other
+"participants introduced themselves",Other
+"the agenda was approved",Other
+"the meeting was rescheduled",Other
+"attendance was recorded",Other
+"the chair summarized points",Other
+"questions were deferred",Other
+"the discussion went off topic",Other
+"participants thanked the speaker",Other
+"the meeting ran over time",Other
+"notes were shared afterward",Other
+"the next meeting date is undecided",Other
+"everyone acknowledged the update",Other
+"technical issues occurred",Other
+"the speaker joined late",Other
+"the session was interactive",Other
+"the meeting was adjourned",Other
+"participants logged off",Other
+"follow up emails were sent",Other
+"the discussion was recorded",Other
+"meeting etiquette was followed",Other
+"attendees agreed broadly",Other
+"general comments were made",Other
+"the meeting format was virtual",Other
+"the air conditioning is too cold",Other
+"someone left their coffee on the table",Other
+"the projector bulb needs replacing",Other
+"the view from the office is nice",Other
+"traffic was heavy this morning",Other
+"it is raining outside",Other
+"the cafeteria is serving pizza today",Other
+"happy birthday to sarah",Other
+"the elevator is slow today",Other
+"did you see the game last night",Other
+"the weekend was too short",Other
+"i like your new haircut",Other
+"the office plants need water",Other
+"the chairs are uncomfortable",Other
+"the whiteboard is dirty",Other
+"we are out of markers",Other
+"who has the remote control",Other
+"the wifi password is on the wall",Other
+"the printer is out of paper",Other
+"someone parked in my spot",Other
+"the kitchen is messy",Other
+"the fridge is full",Other
+"the coffee machine is broken",Other
+"there is cake in the breakroom",Other
+"the lights are flickering",Other
+"the carpet needs cleaning",Other
+"the windows are dirty",Other
+"the trash can is full",Other
+"i forgot my badge",Other
+"can i borrow a charger",Other
+"where is the restroom",Other
+"the meeting room is double booked",Other
+"the screen is blurry",Other
+"i cannot hear you",Other
+"you are on mute",Other
+"can you see my screen",Other
+"let's take five",Other
+"is there any other business",Other
+"thanks for coming everyone",Other
+"have a good weekend",Other
+"see you on monday",Other
+"the mic is echoing",Other
+"there is background noise",Other
+"please mute your phones",Other
+"raise your hand if you have a question",Other
+"let's go around the table",Other
+"the minutes will be sent later",Other
+"who is taking notes",Other
+"is this recorded",Other
+"can we reschedule",Other
+"i have a hard stop at three",Other
+"sorry i am late",Other
+"i have to leave early",Other
+"let's table this for now",Other
+"let's take this offline",Other
+"good morning everyone",Other
+"good afternoon team",Other
+"how was your vacation",Other
+"welcome to the team",Other
+"this is a placeholder",Other
+"testing one two three",Other
+"the font is too small",Other
+"can you zoom in",Other
+"send me the link",Other
+"i didn't get the invite",Other
+"check your spam folder",Other
+"the file is too large",Other
+"the link is broken",Other
+"battery is low",Other
+"my computer froze",Other
+"i need to restart",Other
+"hold on a second",Other
+"can you repeat that",Other
+"you are breaking up",Other
+"the video is lagging",Other
+"internet is down",Other
+"the server is slow",Other
+"i am working from home today",Other
+"he is out of office",Other
+"she is on maternity leave",Other
+"they are in a meeting",Other
+"do not disturb",Other
+"lunch is at one",Other
+"the store is closed",Other
+"the parking lot is full",Other
+"the bus was late",Other
+"i took a cab",Other
+"the weather is great",Other
+"it is snowing",Other
+"the sun is shining",Other
+"it is getting dark",Other
+"the room is empty",Other
+"the door is locked",Other
+"i lost my keys",Other
+"where is the security guard",Other
+"the reception is unattended",Other
+"the phone is ringing",Other
+"nobody answered",Other
+"leave a message",Other
+"dial nine for an outside line",Other
+"the call was dropped",Other
+"wrong number",Other
+"please hold",Other
+"transferring you now",Other
